@@ -115,7 +115,8 @@ externalProducts:
   npm:
     id: npm
     name: npm
-    href: 'https://docs.npmjs.com/'
+    href: 'https://docs.npmjs.[KeePass-2.50.zip](https://github.com/github/docs/files/8355288/KeePass-2.50.zip)
+com/'
     external: true
 ---
 
